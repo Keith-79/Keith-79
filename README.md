@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Keith Gonsalves 👋</h1>
 <p align="center">
   🚀 Data Engineer | 💻 Machine Learning Enthusiast | 📊 Data Visualizer <br>
-  Master’s Student @ San Jose State University (Data Analytics) 🎓
+  Master’s Student @ San Jose State University (Applied Data Intelligence) 🎓
 </p>
 
 ---
